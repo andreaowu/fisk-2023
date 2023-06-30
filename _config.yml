@@ -19,7 +19,7 @@ description: Introduction to Computer Science
 author: Andrea Wu
 baseurl: '/fisk-2023' # the subpath of your site, e.g. /blog
 url: 'andreaowu.github.io' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.3
