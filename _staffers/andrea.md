@@ -2,7 +2,7 @@
 name: Andrea Wu
 role: Instructor
 email: awu@fisk.edu
-photo: andrea_photo.jpeg
+photo: andrea.jpg
 ---
 [Schedule an appointment](https://calendly.com/){: .btn .btn-outline }
 
