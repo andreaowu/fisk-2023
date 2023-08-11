@@ -28,16 +28,17 @@ By the end of the course, students will learn
  - Runtime and efficiency
  - Objects and Classes
 
+### Class Model
+This class uses a flipped classroom model, where [lecture videos](https://youtube.com/@csci110) will be sent out before class that you must watch. **You will be expected to have watched the videos the day before class and completed the associated video assignments**. This is part of your grade, and you are required to do them **before class**! Classtime will then be spent on answering your questions on the material and working through practice problems.
+
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
 ### Lecture and Labs
-Lectures and labs will be held in Library 317. This class will use a flipped classroom model, where [lecture videos](https://youtube.com/@csci110) will be sent out before class that you must watch. You will be expected to have watched the videos the day before class and completed the associated video assignments. Classtime will then be spent on answering your questions on the material and working through practice problems. Video assignments will be part of your grade.
-
-You should take advantage of lectures and labs as you can ask the professor or TAs for help on completing the assignments.
+Lectures and labs will be held in Library 317. You should take advantage of lectures and labs as you can ask the professor and/or TAs for help on completing the assignments.
 
 ### Office Hours
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Google Meet, and the link can be found at the [course schedule page](schedule.md). In-person office hours for the instructor and Fisk TA's will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours held by Googler TA's will be held on Google Meet, and the link can be found at the [course schedule page](schedule.md). In-person office hours for the instructor and Fisk TA's will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
 
 As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
