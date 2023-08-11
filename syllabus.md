@@ -31,11 +31,20 @@ By the end of the course, students will learn
 ### Class Model
 This class uses a flipped classroom model, where [lecture videos](https://youtube.com/@csci110) will be sent out before class that you must watch. **You will be expected to have watched the videos the day before class and completed the associated video assignments**. This is part of your grade, and you are required to do them **before class**! Classtime will then be spent on answering your questions on the material and working through practice problems.
 
-## Course Meetings
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
+## Course Schedule
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). Instructor and Fisk TA office hours will be held on the Library 3rd floor.
 
-### Lecture and Labs
-Lectures and labs will be held in Library 317. You should take advantage of lectures and labs as you can ask the professor and/or TAs for help on completing the assignments.
+### Lecture
+Lecture will be held in Library 317 on Mondays, Wednesdays, and Fridays. Lecture will be focused on practicing concepts by doing problems, and you will be able to ask your professor and TA for help. There are three sections and each student must attend one of them:
+- MWF 9AM-9:55AM
+- MWF 11AM-11:55AM
+- MWF 2PM-2:55PM
+
+### Lab
+Labs will be held in Library 317 on Tuesdays. There are three sections for labs and each student must attend one of them:
+- T 9AM-9:55AM
+- T 11AM-11:55AM
+- T 1PM-1:55PM
 
 ### Office Hours
 We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours held by Googler TA's will be held on Google Meet, and the link can be found at the [course schedule page](schedule.md). In-person office hours for the instructor and Fisk TA's will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
@@ -44,8 +53,25 @@ As a course, we commit to making sure no student fails the class due to lack of 
 
 ## Policies
 
+### Evaluation
+Your final grade will be calculated based on your exams, homeworks, projects, and quizzes. See the section below for a detailed breakdown. Depending on the difficulty of the material, a curve may be applied to increase grades at the end of the semester. A curve will never be used to decrease grades. Final grades will be assigned according to:
+| Grade | Range
+|:-------|:------|
+| A+ | 97 <= score |
+| A | 93 <= score < 97 |
+| A- | 90 <= score < 93 |
+| B+ | 87 <= score < 90 |
+| B | 83 <= score < 87 |
+| B- | 80 <= score < 83 |
+| C+ | 77 <= score < 80 |
+| C | 73 <= score < 77 |
+| C- | 70 <= score < 73 |
+| D | 60 <= score < 70 |
+| E | 50 <= score < 60 |
+| F | score < 50 |
+
 ### Grades
-Your final grade will be calculated based on your homeworks, labs, quizzes, projects, and exams. See the section below for a detailed breakdown. Depending on the difficulty of the material, a curve may be applied to increase grades at the end of the semester. A curve will never be used to decrease grades.
+There will be two grading systems, both very similar, which will be applied to your work throughout the course. Your final grade will be the greater of the two scores. The intention here is to provide a slight benefit to those students who performed really well on projects but may have had slightly lower exam scores or vice versa. The two weighting systems are:
 
 Your overall grade will be calculated using the following relative weights:
 
