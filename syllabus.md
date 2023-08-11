@@ -31,62 +31,65 @@ By the end of the course, students will learn
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 
-### Lecture
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the course calendar page. Lectures and labs will be held in Library 317. Instructor office hours will be held on the Library 3rd floor at this time until an office has been assigned.
+### Lecture and Labs
+Lectures and labs will be held in Library 317. This class will use a flipped classroom model, where [lecture videos](https://youtube.com/@csci110) will be sent out before class that you must watch. You will be expected to have watched the videos the day before class and completed the associated video assignments. Classtime will then be spent on answering your questions on the material and working through practice problems. Video assignments will be part of your grade.
 
-This class will use a flipped classroom model, where lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos the day before class and completed the associated assignment. Classtime will then be spent on answering student questions on the material and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class.
-
-### Labs
-// TODO
-Labs will let you apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve that you'll be able to work on with your peers in groups of 4. 
-
-You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments. 
+You should take advantage of lectures and labs as you can ask the professor or TAs for help on completing the assignments.
 
 ### Office Hours
-// TODO
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Zoom, the link can be found at the [course schedule page](schedule.md). In-person office hours will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out. 
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Google Meet, and the link can be found at the [course schedule page](schedule.md). In-person office hours for the instructor and Fisk TA's will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
 
 As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
 ## Policies
 
 ### Grades
-// TODO
-Your final grade will be calculated based on your exams, homeworks, labs, projects, and quizzes. See the section below for a detailed breakdown. Depending on the difficulty of the material, a curve may be applied to increase grades at the end of the semester. A curve will never be used to decrease grades.
+Your final grade will be calculated based on your homeworks, labs, quizzes, projects, and exams. See the section below for a detailed breakdown. Depending on the difficulty of the material, a curve may be applied to increase grades at the end of the semester. A curve will never be used to decrease grades.
 
 Your overall grade will be calculated using the following relative weights:
 
-| Assignment Type | # of Assignments | Number Dropped | Weight in Overall Grade |
-|:-------------|:------------------|:------|:------|
-| Midterm Exam(s) | 2 | 0  | 23% |
-| Final Exam | 1 | 0  | 17% |
-| Homeworks | 5 | 0  | 15% |
-| Labs | 12 | 2  | 23% |
-| Projects | 2 | 0 | 17% |
-| Quiz | 8 | 1 | 5% |
+| Assignment Type | Weight in Overall Grade System 1 | Weight in Overall Grade System 2
+|:-------------|:------------------|:------------------|
+| Coding Homework | 3% | 3% |
+| Video Homework | 2% | 2% |
+| Labs | 3% | 3% |
+| Quizzes | 3% | 3% |
+| Project 1 | 14% | 25% |
+| Project 2 | 20% | 30% |
+| Midterm 1 | 13% | 6% |
+| Midterm 2 | 17% | 11% | 
+| Final Exam | 25% | 17% | 
 
 ### Assignments
-// TODO
 These details are subject to change during the semester, however the current plan of record is the following:
 
-- ~8 Quizzes - random time during lecture time, once a week. 
-- 12 Labs - 1x per week. Work w/ partners, submit individually
-- 5 Homeworks - spread throughout the semester. Work individually, submit individually.
-- 2 Projects - Image Filters and Search Engine
+- 10 Homeworks - 1x per week, due Wednesday
+- 10 Quizzes - 1x per week on Wednesday, first 10 minutes of class
+- 2 Projects - spread throughout the semester, due Sunday
 
-Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
+All assignments will be due at 11:59pm on their respective days
+
+### Quizzes
+At the beginning of class on every Wednesday, there will be a 10-minute quiz on the material from the previous week (previous Wed, Fri, and Mon). These will be done on EdStem, so bring your laptop to class.
+
+For quizzes where you score <90%, you will have a chance to retake them. In order to do so, send me an email by the end of Friday to ask for a quiz retake. In the email, include for each question:
+- what the original answer was and why / how it is incorrect
+- what the correct answer is and why / how it is correct
+
+In order to be granted a retake, all of your answers must be correct. If they are not correct, I will go over them with you until they are correct - but no retakes until they are correct.
+
+Retakes will happen 10 minutes _before_ class on Monday (ie if your class usually starts at 9AM, show up a few minutes before 8:50AM to do the retake). Let the instructor know if this time doesn't work for you and we'll find another time.
 
 ### Exams
-Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 22nd. Exam 2 is will be on Monday, November 1st. Exam 3 will take place during finals week. 
+This course will have 2 midterms and 1 final exam, spaced evenly across the semester. 
+- Exam 1 is on Wednesday, September 15th
+- Exam 2 is on Wednesday, October 26th 
+- Exam 3 is the final exam
 
 ### Cheating
-// TODO
-For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Mimir's autograder has a very good plagiarism detector. Per Howard University policy, the first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty. 
+For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that I will be using a plagiarism detector. The first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty. 
 
-If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it's necessary for 
-
-The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas.
+If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it’s necessary for maintaining a fair classroom. The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas. If you are struggling because there’s not enough time or the concepts are difficult, email the professor. Extensions are available if you let me know what’s going on.
 
 ## Resources
-// TODO
-This course website, [csci100.org](https://www.csci100.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using the following software.
+This course website, [csci100fisk.org](https://www.cs110fisk.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using [EdStem](https://edstem.org/us/courses/41289) for all assignments and asking questions.
