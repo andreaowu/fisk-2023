@@ -1,5 +1,5 @@
 ---
-name: Andrea Wu
+name: Andrea Wu (she / her)
 role: Instructor
 email: awu@fisk.edu
 photo: andrea.jpg
