@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Home
+favicon: fisk_university.jpeg
 nav_exclude: true
 seo:
   type: Course
