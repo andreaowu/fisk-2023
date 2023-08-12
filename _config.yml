@@ -15,7 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: CSCI 110
 favicon_ico: "/assets/images/favicon.ico"
-logo: "/assets/images/favicon.ico"
 tagline: Fisk University CSCI 110 Fall 2023
 description: Introduction to Computer Science
 author: Andrea Wu
