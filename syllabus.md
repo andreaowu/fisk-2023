@@ -90,9 +90,10 @@ Your overall grade will be calculated using the following relative weights:
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
 
-- 10 Homeworks - 1x per week, due Wednesday
+- 30 Video Assignments - 3x per week, due one day before each class (Sun, Tues, Thurs)
+- 10 Coding Assignments - 1x per week, due Monday
 - 10 Quizzes - 1x per week on Wednesday, first 15 minutes of class
-- 2 Projects - spread throughout the semester, due Sunday
+- 2 Projects - spread throughout the semester, due Friday
 
 All assignments will be due at 11:59pm on their respective days
 
@@ -105,7 +106,7 @@ For quizzes where you score <90%, you will have a chance to retake them. In orde
 
 In order to be granted a retake, all of your answers must be correct. If they are not correct, I will go over them with you until they are correct - but no retakes until they are correct.
 
-Retakes will happen 10 minutes _before_ class on Monday (ie if your class usually starts at 9AM, show up a few minutes before 8:50AM to do the retake). Let the instructor know if this time doesn't work for you and we'll find another time.
+Retakes will happen 15 minutes _before_ class on Monday (ie if your class usually starts at 9AM, show up a few minutes before 8:50AM to do the retake). Let the instructor know if this time doesn't work for you and we'll find another time.
 
 ### Exams
 This course will have 2 midterms and 1 final exam, spaced evenly across the semester. 
