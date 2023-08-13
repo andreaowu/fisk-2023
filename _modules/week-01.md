@@ -5,6 +5,9 @@ title: Week 1
 Aug 14
 : **Intro, Logistics, Computers**
   : TBD
+
+Aug 15
+: **Lab**{: .label .label-purple } [Lab 1](https://edstem.org/us/courses/41289/lessons/72790){:target="_blank"}
   
 Aug 16
 : **Data Types**
