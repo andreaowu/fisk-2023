@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Youtube:
-    - 'https://youtube.com'
+    - 'https://youtube.com/@csci110'
   Style Guide:
     - 'https://docs.google.com/document/d/1BtuiFLmkvkrxVxd8zYWg60QcnH8hjN3w/edit'
 footer_content:
