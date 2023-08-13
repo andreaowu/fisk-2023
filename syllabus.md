@@ -91,13 +91,13 @@ Your overall grade will be calculated using the following relative weights:
 These details are subject to change during the semester, however the current plan of record is the following:
 
 - 10 Homeworks - 1x per week, due Wednesday
-- 10 Quizzes - 1x per week on Wednesday, first 10 minutes of class
+- 10 Quizzes - 1x per week on Wednesday, first 15 minutes of class
 - 2 Projects - spread throughout the semester, due Sunday
 
 All assignments will be due at 11:59pm on their respective days
 
 ### Quizzes
-At the beginning of class on every Wednesday, there will be a 10-minute quiz on the material from the previous week (previous Wed, Fri, and Mon). These will be done on EdStem, so bring your laptop to class.
+At the beginning of class on every Wednesday, there will be a 15-minute quiz on the material from the previous week (previous Wed, Fri, and Mon). These will be done on EdStem, so bring your laptop to class.
 
 For quizzes where you score <90%, you will have a chance to retake them. In order to do so, send me an email by the end of Friday to ask for a quiz retake. In the email, include for each question:
 - what the original answer was and why / how it is incorrect
