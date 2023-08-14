@@ -120,4 +120,7 @@ For all assignments in the course, you may discuss approaches to solving a probl
 If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it’s necessary for maintaining a fair classroom. The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas. If you are struggling because there’s not enough time or the concepts are difficult, email the professor. Extensions are available if you let me know what’s going on.
 
 ## Resources
-This course website, [introcs.org](http://www.introcs.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using [EdStem](https://edstem.org/us/courses/41289) for all assignments and asking questions.
+This course website, [introcs.org](http://www.introcs.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we have:
+- [EdStem](https://edstem.org/us/courses/41289) for all assignments and asking questions
+- [Youtube](https://www.youtube.com/@csci110) channel for lectures
+- [Slides](https://drive.google.com/drive/u/1/folders/1GXwvh03Oncp5a7sSS9UmBN_2UvH3LKo-) from video lectures
