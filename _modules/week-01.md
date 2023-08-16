@@ -14,12 +14,6 @@ Aug 16
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTEbKv3AdvZa4nnye1AhyP8){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1Bde29w9qqigwKFkZx1uu82D2Ur9ash8QWgjg30W5bwg){:target="_blank"}\]
 : **Lecture**{: .label .label-purple }Data Types
   : [\[Slides\]](https://docs.google.com/presentation/d/14bjI9Q6iCZLvpsW73vuUWt4h_9bccibkEa2Dt9cDjFQ)
-  
-9/15
-: Thursday
-: **Concept Videos Lecture 4**{: .label .label-blue } [Karel Decomposition](https://edstem.org/us/courses/24341/lessons/44197)
-: **Lecture 4**{: .label .label-purple } Karel Decomposition
-  : [\[Slides\]](https://drive.google.com/file/d/1gIGFqpzAcPpF5BZD4_hGD8W6q8rjNdYH/view?usp=sharing)
 
 Aug 18
 : **Concept Videos**{: .label .label-blue }[Arithmetic Operators](https://edstem.org/us/courses/41289/lessons/72764/slides/389375)
