@@ -13,7 +13,7 @@ Aug 16
 : **Concept Videos**{: .label .label-blue } [Data Types](https://edstem.org/us/courses/41289/lessons/69044/)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTEbKv3AdvZa4nnye1AhyP8){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1Bde29w9qqigwKFkZx1uu82D2Ur9ash8QWgjg30W5bwg){:target="_blank"}\]
 : **Lecture**{: .label .label-purple }Data Types
-  : \[Slides\](https://docs.google.com/presentation/d/14bjI9Q6iCZLvpsW73vuUWt4h_9bccibkEa2Dt9cDjFQ)
+: [[slides](https://docs.google.com/presentation/d/14bjI9Q6iCZLvpsW73vuUWt4h_9bccibkEa2Dt9cDjFQ){:target="_blank"}\]
 
 Aug 18
 : **Concept Videos**{: .label .label-blue }[Arithmetic Operators](https://edstem.org/us/courses/41289/lessons/72764/slides/389375)
