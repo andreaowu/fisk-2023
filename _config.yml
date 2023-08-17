@@ -29,6 +29,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Edstem:
+    - 'https://edstem.org/us/courses/41289/discussion/'
   Youtube:
     - 'https://youtube.com/@csci110'
   Style Guide:
