@@ -16,9 +16,11 @@ Aug 16
 : **Lecture**{: .label .label-yellow }Data Types
   : \[[slides](https://docs.google.com/presentation/d/14bjI9Q6iCZLvpsW73vuUWt4h_9bccibkEa2Dt9cDjFQ){:target="_blank"}\]
 : **HW**{: .label .label-green }[Data Types](https://edstem.org/us/courses/41289/lessons/69257/slides/370641){:target="_blank"}
+  : Due: Aug 21
 
 Aug 18
 : **Concept Videos**{: .label .label-blue }[Arithmetic Operators](https://edstem.org/us/courses/41289/lessons/72764/slides/389375)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRTGMSjzFLnVYmmHNY-Xa45){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1UG3Q6XLwuHX8Ug9lmKPEkkDSvtCGPduJDXoiD3mkbqs){:target="_blank"}\]
 : **HW**{: .label .label-green }[Expressions](https://edstem.org/us/courses/41289/lessons/69257/slides/370642){:target="_blank"} 
 and [Conversions](https://edstem.org/us/courses/41289/lessons/72914/slides/390702)
+  : Due: Aug 21
