@@ -5,9 +5,6 @@ title: Week 1
 Aug 14
 : **Lectures**{: .label .label-yellow }Intro, Logistics, Computers
   : [[slides](https://docs.google.com/presentation/d/1B92S4eL-lRrdG6HRFncXXyoyu2ikelQtBmGx9FQeTC4){:target="_blank"}\]
-: **Lectures**{: .label .label-yellow }Intro, Logistics, Computers
-  : [[slides](https://docs.google.com/presentation/d/1B92S4eL-lRrdG6HRFncXXyoyu2ikelQtBmGx9FQeTC4){:target="_blank"}\]
-
 
 Aug 15
 : **Lab**{: .label .label-purple }[Lab 1](https://edstem.org/us/courses/41289/lessons/72790){:target="_blank"}
