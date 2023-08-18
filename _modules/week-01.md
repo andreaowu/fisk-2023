@@ -20,5 +20,7 @@ Aug 16
 Aug 18
 : **Videos**{: .label .label-blue }[Arithmetic Operators](https://edstem.org/us/courses/41289/lessons/72764/slides/389375)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRTGMSjzFLnVYmmHNY-Xa45){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1UG3Q6XLwuHX8Ug9lmKPEkkDSvtCGPduJDXoiD3mkbqs){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }Arithmetic Operators
+  : \[[slides](https://docs.google.com/presentation/d/1smAO4DPQYfXtNIsE5Q5JDKGEHIyBLF4shSh6IuInG-E){:target="_blank"}\]
 : **HW**{: .label .label-green }[Expressions](https://edstem.org/us/courses/41289/lessons/69257/slides/370642){:target="_blank"} and [Conversions](https://edstem.org/us/courses/41289/lessons/72914/slides/390702)
   : Due: Aug 21
