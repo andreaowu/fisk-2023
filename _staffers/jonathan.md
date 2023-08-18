@@ -1,7 +1,7 @@
 ---
 name: Jonathan Tshimpaka (he / him)
 role: Google Teaching Assistant
-email: tkjonathan@google.com
+email: jonathankabongo23@gmail.com
 photo: jonathan.jpg
 ---
 
