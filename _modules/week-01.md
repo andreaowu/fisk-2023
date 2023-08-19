@@ -8,6 +8,7 @@ Aug 14
 
 Aug 15
 : **Lab**{: .label .label-purple }[Lab 1](https://edstem.org/us/courses/41289/lessons/72790){:target="_blank"}
+  : Due: Aug 15
 
 Aug 16
 : **Videos**{: .label .label-blue }[Data Types](https://edstem.org/us/courses/41289/lessons/69044/)
