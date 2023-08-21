@@ -5,6 +5,8 @@ title: Week 2
 Aug 21
 : **Videos**{: .label .label-blue }[Variables](https://edstem.org/us/courses/41289/lessons/70362)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSNNc0gToqTux7IvS9E4Z91){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/18VibgtBz5bWzNzRMdYcqX4U7CnAoTepEnddurexzrBE){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }Variables
+  : \[[slides](https://docs.google.com/presentation/d/1R3B_3ylP7sK8TVQyK1K0X3dOnP0ccdgUoCYqHxdANIU){:target="_blank"}\]
 
 Aug 22
 : **Lab**{: .label .label-purple }[Lab 2](https://edstem.org/us/courses/41289/lessons/72365/slides){:target="_blank"}
