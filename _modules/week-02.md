@@ -19,10 +19,10 @@ Aug 23
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSw_IEUt5LMCSxYtgvhy1v8){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1kHH0C4R28_82XThFhm-VXM7Q0miHD9th0Lg3sb8EB9Q){:target="_blank"}\]
 : **Quiz**{: .label .label-red }[Data Types, Arithmetic Operators](https://edstem.org/us/courses/41289/lessons/73081)
 : **HW**{: .label .label-green }[Switcheroo!](https://edstem.org/us/courses/41289/lessons/72912/slides/390698){:target="_blank"}
-  : Due: Aug 21
+  : Due: Aug 28
 
 Aug 25
 : **Videos**{: .label .label-blue }[Comparison and Logical Operators](https://edstem.org/us/courses/41289/lessons/70838)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSzjE3RettCKYQSZRkjmxqd){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1LkLEFToWUJgAwXst97tEeB3xxpJsQfZnWDdv82Sbo7M){:target="_blank"}\]
 : **HW**{: .label .label-green }[Expressions](https://edstem.org/us/courses/41289/lessons/72912/slides/394613){:target="_blank"}
-  : Due: Aug 21
+  : Due: Aug 28
