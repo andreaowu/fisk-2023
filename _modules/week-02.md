@@ -26,5 +26,7 @@ Aug 23
 Aug 25
 : **Videos**{: .label .label-blue }[Comparison and Logical Operators](https://edstem.org/us/courses/41289/lessons/70838)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSzjE3RettCKYQSZRkjmxqd){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1LkLEFToWUJgAwXst97tEeB3xxpJsQfZnWDdv82Sbo7M){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }Comparison and Logical Operators
+  : \[[slides](https://docs.google.com/presentation/d/1Vpab3hFBLTZvKZRkPvt56OgNB9ZGVcdu_d_KZKiMNvU){:target="_blank"}\]
 : **HW**{: .label .label-green }[Expressions](https://edstem.org/us/courses/41289/lessons/72912/slides/394613){:target="_blank"}
   : Due: Aug 28
