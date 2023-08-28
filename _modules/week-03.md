@@ -5,7 +5,7 @@ title: Week 3
 Aug 28
 : **Videos**{: .label .label-blue }[Conditionals](https://edstem.org/us/courses/41289/lessons/70840)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GQ4EM432WkJrzhMYrCNrcDu){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1VATDJAqaeJSfF0K_eH5RBPAD1HwYRGYO3kPkjWmZXZA){:target="_blank"}\]
-: **Project**{: .label .label-coral }[Blackjack: Part 1](https://edstem.org/us/courses/41289/lessons/73250)
+: **Project**{: .label .label-grey }[Blackjack: Part 1](https://edstem.org/us/courses/41289/lessons/73250)
   : Due: Sept 3
 
 Aug 30
