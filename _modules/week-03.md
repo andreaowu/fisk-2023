@@ -9,6 +9,8 @@ Aug 28
   : \[[slides](https://docs.google.com/presentation/d/1WhLN9NENNznXfmnTU8UToRxlYyZNCKD81a1BwI8w-_k){:target="_blank"}\]
 : **Project**{: .label .label-green }[Blackjack: Part 1](https://edstem.org/us/courses/41289/lessons/73250)
   : Due: Sept 3
+: **HW**{: .label .label-green }[Conditionals](https://edstem.org/us/courses/41289/lessons/74110){:target="_blank"}
+  : Due: Sept 5
 
 Aug 29
 : **Lab**{: .label .label-purple }[Lab 3](https://edstem.org/us/courses/41289/lessons/74365){:target="_blank"}
