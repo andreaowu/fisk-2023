@@ -21,7 +21,7 @@ Aug 30
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSptVem4I4CvTylQFSkGlCz){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1V2f-yjT5Ccg3Q5h-kFLBdIptEFL_dNzJdQxgN_2Ew3g){:target="_blank"}\]
 : **Lecture**{: .label .label-yellow }Debugging, Styling
   : \[[slides](https://docs.google.com/presentation/d/18nryGfjr0VpjyG7bRd1ddMrQpigKsyFA3_hO9Sm1Rtg){:target="_blank"}\]
-: **Quiz**{: .label .label-green }Variables, I/O, Logical / Comparison Operators
+: **Quiz**{: .label .label-red }Variables, I/O, Logical / Comparison Operators
 
 Sept 1
 : **Videos**{: .label .label-blue }[While Loops](https://edstem.org/us/courses/41289/lessons/70869)
