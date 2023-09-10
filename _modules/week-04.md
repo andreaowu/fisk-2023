@@ -16,3 +16,5 @@ Sept 6
 Sept 8
 : **Videos**{: .label .label-blue }[More Strings](https://edstem.org/us/courses/41289/lessons/70970)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRiEk9b12JTANzzYGcSyP3v){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1N3Dq5NfW5lPfXKFTqTFNhLXVJyuAxazT4O1fDItA2ME){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }More Strings
+  : \[[slides](https://docs.google.com/presentation/d/1Sg3MqSl0vuZKgq4w16BMRWCVaCJKpFzj0hmNYyrp5-k){:target="_blank"}\]
