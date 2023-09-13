@@ -18,3 +18,5 @@ Sept 13
 : **Videos**{: .label .label-blue }[For Loop - range](https://edstem.org/us/courses/41289/lessons/71001)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRkRozmrY-4sUnPSqg--Ktn){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1N3Dq5NfW5lPfXKFTqTFNhLXVJyuAxazT4O1fDItA2ME){:target="_blank"}\]
 : **Quiz**{: .label .label-red }[While, Strings](https://edstem.org/us/courses/41289/lessons/75170)
+: **Lecture**{: .label .label-yellow }For Loop - range
+  : \[[slides](https://docs.google.com/presentation/d/19cmpNh8YFPPi-rfD1poTdGtjNOfi1DDElw9sNEooU_4){:target="_blank"}\]
