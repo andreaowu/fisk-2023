@@ -12,6 +12,7 @@ Sept 12
 : **Lab**{: .label .label-purple }[Lab 4](https://edstem.org/us/courses/41289/lessons/75232){:target="_blank"}
   : Due: Sept 12
 : **Tech Series**{: .label .label-yellow }[Building Apps from Scratch](https://edstem.org/us/courses/41289/lessons/75494)
+  : \[[video](https://drive.google.com/file/d/14o1Ih9EIIfXiiYyemVmcH79_RaQ_Bwac){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/15Hq0UkQbHiUhlZO3dYzXSoKIy9AfhZPIi0fL361Nuag){:target="_blank"}\]
 
 Sept 3
 : **Videos**{: .label .label-blue }[For Loop - range](https://edstem.org/us/courses/41289/lessons/71001)
