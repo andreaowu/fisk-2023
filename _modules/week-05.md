@@ -4,7 +4,7 @@ title: Week 5
 
 Sept 11
 : **Videos**{: .label .label-blue }[For Loop - in](https://edstem.org/us/courses/41289/lessons/70994)
-  : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTF7IAbka6r2SNUBqoxI-pS){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1YJ0i9PtQGZpYgZ4iL1wVcdDVXs05Cg0uPYuhYsqpNmc){:target="_blank"}\]
+  : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTF7IAbka6r2SNUBqoxI-pS){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1aj3pQn10M0Dk_EBt3wHmJY_1tdZkbXdsFs9S8Vhky08){:target="_blank"}\]
 : **Lecture**{: .label .label-yellow }For Loop - in
   : \[[slides](https://docs.google.com/presentation/d/1-Ockl1-qTJppLreyQs6U3zw0pEH-dLf4vg5Ji71P6D8){:target="_blank"}\]
 
@@ -16,7 +16,7 @@ Sept 12
 
 Sept 13
 : **Videos**{: .label .label-blue }[For Loop - range](https://edstem.org/us/courses/41289/lessons/71001)
-  : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRkRozmrY-4sUnPSqg--Ktn){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1N3Dq5NfW5lPfXKFTqTFNhLXVJyuAxazT4O1fDItA2ME){:target="_blank"}\]
+  : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRkRozmrY-4sUnPSqg--Ktn){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1Ls_VIgPQ2we86jsf_mAi62akAIlPkQdKBx70yko1pcI){:target="_blank"}\]
 : **Quiz**{: .label .label-red }[While, Strings](https://edstem.org/us/courses/41289/lessons/75170)
 : **Lecture**{: .label .label-yellow }For Loop - range
   : \[[slides](https://docs.google.com/presentation/d/19cmpNh8YFPPi-rfD1poTdGtjNOfi1DDElw9sNEooU_4){:target="_blank"}\]
