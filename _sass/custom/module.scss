@@ -45,6 +45,7 @@
       @extend %module-item;
       border-top: $border $border-color;
       font-weight: normal;
+      padding: 0.5em;
       text-align: right;
 
       +dd {
