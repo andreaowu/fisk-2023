@@ -7,6 +7,8 @@ Sept 11
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTF7IAbka6r2SNUBqoxI-pS){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1aj3pQn10M0Dk_EBt3wHmJY_1tdZkbXdsFs9S8Vhky08){:target="_blank"}\]
 : **Lecture**{: .label .label-yellow }For Loop - in
   : \[[slides](https://docs.google.com/presentation/d/1-Ockl1-qTJppLreyQs6U3zw0pEH-dLf4vg5Ji71P6D8){:target="_blank"}\]
+: **HW**{: .label .label-green }[For Loops](https://edstem.org/us/courses/41289/lessons/74863){:target="_blank"}
+  : Due: Sept 18
 
 Sept 12
 : **Lab**{: .label .label-purple }[Lab 4](https://edstem.org/us/courses/41289/lessons/75232){:target="_blank"}
