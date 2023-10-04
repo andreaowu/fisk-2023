@@ -10,7 +10,7 @@ Oct 2
 : **Project**{: .label .label-green }[Blackjack: Part 4](https://edstem.org/us/courses/41289/lessons/73252)
   : Due: Oct 11
 : **HW**{: .label .label-green }[Functions](https://edstem.org/us/courses/41289/lessons/76507){:target="_blank"}
-  : Due: Oct 12
+  : Due: Oct 16
 
 Oct 3
 : **Tech Series**{: .label .label-yellow }[Panel: Site Reliability Engineering](https://edstem.org/us/courses/41289/lessons/77968)
