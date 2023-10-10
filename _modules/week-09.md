@@ -6,7 +6,7 @@ Oct 9
 Fall Break
 
 Oct 10
-Fall Break
+: Fall Break
 : **Tech Series**{: .label .label-yellow }Big Data / Scalability
 
 Oct 11
