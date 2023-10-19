@@ -20,5 +20,5 @@ Oct 25
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSrgef8NzqsN9dV7SvtnpQB){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1CvWZtigzDIOg5Wrc4sQrCILDfrqwQM1PUSUWh4IU6IQ){:target="_blank"}\]
 : **Lecture**{: .label .label-yellow }Functions: Modules and Imports
   : \[[slides](https://docs.google.com/presentation/d/1P1scdYV_RJxRkPslwimo1CADahtIGDMV7tsgfnco_Ng){:target="_blank"}\]
-: **Project**{: .label .label-green }[]()
-  : Due: Oct 22
+: **Project**{: .label .label-green }[Search: Part 1](https://edstem.org/us/courses/41289/lessons/79352)
+  : Due: Nov 3
