@@ -8,7 +8,7 @@ Oct 23
 : **Lecture**{: .label .label-yellow }2D Lists
   : \[[slides](https://docs.google.com/presentation/d/1DAuDpcLPZwjmIfcJIFKAWZm5L4QQ13Gx7n_3B5x0mS8){:target="_blank"}\]
 : **HW**{: .label .label-green }[2D Lists](){:target="_blank"}
-  : Due: Oct 16
+  : Due: Oct 30
 
 Oct 24
 : **Lab**{: .label .label-purple }Lab 7
