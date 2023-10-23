@@ -111,7 +111,7 @@ Retakes will happen 15 minutes _before_ class on Monday (ie if your class usuall
 ### Exams
 This course will have 2 midterms and 1 final exam, spaced evenly across the semester. 
 - Exam 1 is on Wednesday, September 15th
-- Exam 2 is on Wednesday, October 26th 
+- Exam 2 is on Wednesday, Nov 1st 
 - Exam 3 is the final exam
 
 ### Cheating
