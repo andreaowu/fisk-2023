@@ -13,7 +13,8 @@ Oct 16
 Oct 17
 : **Lab**{: .label .label-purple }[Lab 6](https://edstem.org/us/courses/41289/lessons/78239){:target="_blank"}
   : Due: Oct 17
-: **Tech Series**{: .label .label-yellow }Panel: Project Manager
+: **Tech Series**{: .label .label-yellow }[Panel: Project Manager](https://edstem.org/us/courses/41289/lessons/78839)
+  : \[[video](https://drive.google.com/file/d/1U1jVfkWshdiT1wO_95UtiDjKvLnnFfli){:target="_blank"}\]
 
 Oct 18
 : **Videos**{: .label .label-blue }[Lists - Mutability](https://edstem.org/us/courses/41289/lessons/71165)
