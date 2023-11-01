@@ -13,7 +13,8 @@ Oct 23
 Oct 24
 : **Lab**{: .label .label-purple }[Lab 7](https://edstem.org/us/courses/41289/lessons/79351)
   : Due: Oct 25
-: **Tech Series**{: .label .label-yellow }Web Development / Accessibility
+: **Tech Series**{: .label .label-yellow }[Web Development / Accessibility](https://edstem.org/us/courses/41289/lessons/79516/slides/434605)
+  : \[[video](https://drive.google.com/file/d/1s6uZuaXOWO-7c82MF2HP_yi0rt6kJaVW){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1aLiXXmqzR65jVeC3gn23wAXlu94qIm6CehV67W_e7yU){:target="_blank"}\]
 
 Oct 25
 : **Videos**{: .label .label-blue }[Functions: Modules and Imports](https://edstem.org/us/courses/41289/lessons/71074)
