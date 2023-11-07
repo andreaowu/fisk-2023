@@ -13,7 +13,7 @@ Nov 13
 Nov 14
 : **Lab**{: .label .label-purple }[Lab 9]()
   : Due: Nov 14
-: **Tech Series**{: .label .label-yellow }Sentiment Analysis / Artificial Intelligence
+: **Tech Series**{: .label .label-yellow }Panel: Developer Relations
 
 Nov 15
 : **Videos**{: .label .label-blue }[Nested Dictionaries]()
