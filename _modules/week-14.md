@@ -13,7 +13,7 @@ Nov 13
 Nov 14
 : **Lab**{: .label .label-purple }[Lab 9]()
   : Due: Nov 14
-: **Tech Series**{: .label .label-yellow }Panel: Developer Relations
+: **Tech Series**{: .label .label-yellow }[Panel: Developer Relations](https://edstem.org/us/courses/41289/lessons/80899)
 
 Nov 15
 : **Videos**{: .label .label-blue }[Pass By Reference vs Value](https://edstem.org/us/courses/41289/lessons/71309)
