@@ -21,6 +21,6 @@ Nov 15
 : **Lecture**{: .label .label-yellow }Pass By Reference vs Value
   : \[[slides](https://docs.google.com/presentation/d/1f6asnSxjVwYz3UC938rOO__XCzF-TNHmw4dFxCc48Zw){:target="_blank"}\]
 : **Videos**{: .label .label-blue }[Scope](https://edstem.org/us/courses/41289/lessons/71307)
-  : \[[videos](https://youtube.com/playlist?list=PLWGqLlpet_GQhTVKDvha_btWFu__KgoHt){:target="_blank"}\] \[[slides](){:target="_blank"}\]
+  : \[[videos](https://youtube.com/playlist?list=PLWGqLlpet_GQhTVKDvha_btWFu__KgoHt){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/18Kr_WBm3xgmNK333EBgNApLFyAL37cgREsTHzjKJTf0){:target="_blank"}\]
 : **Lecture**{: .label .label-yellow }Scope
-  : \[[slides](){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1p4a4zk67Y9HuOKqRnGWmNVJhU-vXgn1MUZ13FMrcGW8){:target="_blank"}\]
