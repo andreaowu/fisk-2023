@@ -16,7 +16,7 @@ Nov 14
 : **Tech Series**{: .label .label-yellow }Panel: Developer Relations
 
 Nov 15
-: **Videos**{: .label .label-blue }[Nested Dictionaries]()
-  : \[[videos](){:target="_blank"}\] \[[slides](){:target="_blank"}\]
-: **Lecture**{: .label .label-yellow }Nested Dictionaries
-  : \[[slides](){:target="_blank"}\]
+: **Videos**{: .label .label-blue }[Pass By Reference vs Value](https://edstem.org/us/courses/41289/lessons/71309)
+  : \[[videos](){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1esFdud7MBnqvRNiirW3c-uBV3AZ6HIPCu7o_auQ6aP8){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }Pass By Reference vs Value
+  : \[[slides](https://docs.google.com/presentation/d/1f6asnSxjVwYz3UC938rOO__XCzF-TNHmw4dFxCc48Zw){:target="_blank"}\]
