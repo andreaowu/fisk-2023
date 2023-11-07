@@ -11,7 +11,7 @@ Nov 13
   : Due: Nov 13
 
 Nov 14
-: **Lab**{: .label .label-purple }[Lab 9]()
+: **Lab**{: .label .label-purple }[Lab 9](https://edstem.org/us/courses/41289/lessons/80902)
   : Due: Nov 14
 : **Tech Series**{: .label .label-yellow }[Panel: Developer Relations](https://edstem.org/us/courses/41289/lessons/80899)
 
