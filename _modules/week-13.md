@@ -14,6 +14,8 @@ Nov 7
 : **Lab**{: .label .label-purple }[Lab 8](https://edstem.org/us/courses/41289/lessons/80479)
   : Due: Nov 7
 : **Tech Series**{: .label .label-yellow }Sentiment Analysis / Artificial Intelligence
+: **Project**{: .label .label-green }[Search: Part 2](https://edstem.org/us/courses/41289/lessons/80724)
+  : Due: Nov 16
 
 Nov 8
 : **Videos**{: .label .label-blue }[Nested Dictionaries](https://edstem.org/us/courses/41289/lessons/71287)
